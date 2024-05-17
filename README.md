@@ -1,1 +1,1 @@
-# nfnato.github.io
+# made for hosting luau scripts / exploits
