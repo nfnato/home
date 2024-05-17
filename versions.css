@@ -1,0 +1,10 @@
+
+.box {
+    width: 849px; 
+    height: 565px; 
+    background-color: #131315; 
+    margin-left: auto;
+    background-position-y: -300px;
+    background-position: bottom;
+
+}
